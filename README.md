@@ -20,15 +20,21 @@ Collection of iCalendar files with holidays in many different Spanish cities.
 
 ### Sobre este repositorio
 
+Este es un repositorio de Git alojado en GitHub. Los ficheros que contiene son de dominio público (véase la licencia MIT). El trabajo aquí recogido es aportado y mantenido públicamente de forma totalmente altruista y no remunerada. 
+
+Si no estás familiarizado con Git y quieres contribuir con un nuevo calendario, envíalo a `example@example.org` en el formato descrito a continuación.
+
 ### Formato iCalendar
 
-Los calendarios siguen el formato iCalendar.
+Los calendarios que aquí se recogen siguen el formato [iCalendar](https://icalendar.org/RFC-Specifications/iCalendar-RFC-5545/). No obstante, se omiten reglas y propiedades del formato para facilitar la confección de calendarios sin que eso afecte a la integridad de los mismos.
+
+Todos los calendarios comienzan con un encabezado y siguen con una serie de eventos. Echa un vistazo a alguno de los calentarios existentes en el repositorio.
 
 ### Calendarios
 
-Los calendarios son ficheros con extensión `*.ics` que representan los festivos de un municipio mediante eventos.
+Estos calendarios son ficheros con extensión `*.ics` que representan los festivos de un único municipio mediante eventos.
 
-Utiliza cualquier editor de texto plano para crear un nuevo calendario o editar uno ya existente. Sírvete de la plantilla de la región en la que se encuentre el municipio.
+Utiliza cualquier editor de texto plano para crear un nuevo calendario o editar uno ya existente. Sírvete de la [plantilla](.templates) de la región en la que se encuentre el municipio.
 
 El nombre del calendario debe seguir el formato `<municipality_name>_<country_code>-<language_code>`, siendo:
 
@@ -62,8 +68,8 @@ END:VEVENT
 
 ### Plantillas
 
-En el directorio `.templates` se ubican plantillas a partir de las cuales pueden escribirse nuevos calendarios. Para crear una nueva plantilla, copia la plantilla `national` al directorio `.templates/regional/` y edítala. Nombra el fichero con el nombre de la región en inglés siguiendo las mismas reglas del `<minicipality_name>` de los calendarios.
+En el directorio [`.templates`](.templates) se ubican plantillas a partir de las cuales pueden escribirse nuevos calendarios. Para crear una nueva plantilla, copia la plantilla `national` al directorio `.templates/regional/` y edítala. Nombra el fichero con el nombre de la región en inglés siguiendo las mismas reglas del `<minicipality_name>` de los calendarios.
 
 ### Mantenimiento
 
-Los gobiernos autonómicos y locales pueden cambiar de fecha algunos festivos cuando coincidan con domingo. 
+Los calendarios requieren de un mantenimiento periódico dado que no se pueden conocer con exactitud los festivos de los años venideros. Los gobiernos autonómicos y locales pueden cambiar de fecha algunos festivos cuando coincidan con domingo. 
