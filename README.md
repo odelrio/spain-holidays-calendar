@@ -2,19 +2,38 @@
 
 # Spain Holidays Calendar
 
-Colección de ficheros iCalendar con los festivos de distintos municipios de España.
+Colección de ficheros iCalendar con los festivos de distintos municipios de España. Puedes añadirlo fácilmente a tu aplicación de calendario (Google Calendar, Apple Calendar, Outlook...).
 
-## English (TL;DR)
+(Inglés - English)
 
-Collection of iCalendar files with holidays in many different Spanish cities.
+Collection of iCalendar files with holidays in many different Spanish cities. You can easily add them to your calendar app (Google Calendar, Apple Calendar, Outlook, etc.).
+
+## Listado
+
+### Cataluña
+
+ - Barcelona (ES):
+ - Barcelona (CA):
+ - Castelldefels (ES):
+ - Castelldefels (CA):
+ - Gavà (ES):
+ - Gavà (CA): 
+ - L'Hospitalet de Llobregat (ES):
+ - L'Hospitalet de Llobregat (CA):
+ - Viladecans (ES):
+ - Viladecans (CA):
 
 ## Añádelo a tu calendario
 
-### Apple Calendar app
+La mayoría de aplicaciones permiten importar calendarios desde URLs.
 
-### Google Calendar
+### Google Calendar (web)
 
-### Office 365
+![Import a calendar from URL in Google Calendar (web)](https://i.imgur.com/7KZaBXl.png)
+
+### Office 365 (web)
+
+![Import a calendar from URL in Office 365 (web)](https://i.imgur.com/bUka0M1.png)
 
 ## Cómo contribuir
 
