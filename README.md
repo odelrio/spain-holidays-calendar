@@ -8,12 +8,34 @@ Colección de ficheros iCalendar con los festivos de distintos municipios de Esp
 
 Collection of iCalendar files with holidays in many different Spanish cities. You can easily add them to your calendar app (Google Calendar, Apple Calendar, Outlook, etc.).
 
-## Listado
+## Añádelos a tu calendario
+
+La mayoría de aplicaciones permiten importar calendarios desde direcciones URL. Busca tu municipio en [el listado](#calendarios-disponibles), copia la dirección del calendario y pégalo en tu aplicación de calendario.
+
+### Google Calendar (web)
+
+![Import a calendar from URL in Google Calendar (web)](https://i.imgur.com/7KZaBXl.png)
+
+ 1. Haz clic en el icono de tres puntos verticales que encontrarás junto a la caja de texto `Añadir calendario` en el panel lateral izquierdo.
+ 2. Selecciona `Desde URL`.
+
+ Alternativamente, puedes hacerlo desde `Configuración` (icono de la rueda dentada) > `Añadir calendario` > `Desde URL`.
+
+ 3. Introduce la URL que has copiado previamente del [listado](#calendarios-disponibles).
+ 4. Haz clic en el botón `Añadir calendario`.
+
+### Office 365 (web)
+
+![Import a calendar from URL in Office 365 (web)](https://i.imgur.com/bUka0M1.png)
+
+## Calendario disponibles
 
 ### Cataluña
 
- - Barcelona (ES):
- - Barcelona (CA):
+#### Barcelona
+
+ - Barcelona (ES): https://raw.githubusercontent.com/odelrio/spain-holidays-calendar/master/catalonia/barcelona/barcelona_es-es.ics
+ - Barcelona (CA): https://raw.githubusercontent.com/odelrio/spain-holidays-calendar/master/catalonia/barcelona/barcelona_es-ca.ics
  - Castelldefels (ES):
  - Castelldefels (CA):
  - Gavà (ES):
@@ -22,18 +44,6 @@ Collection of iCalendar files with holidays in many different Spanish cities. Yo
  - L'Hospitalet de Llobregat (CA):
  - Viladecans (ES):
  - Viladecans (CA):
-
-## Añádelo a tu calendario
-
-La mayoría de aplicaciones permiten importar calendarios desde URLs.
-
-### Google Calendar (web)
-
-![Import a calendar from URL in Google Calendar (web)](https://i.imgur.com/7KZaBXl.png)
-
-### Office 365 (web)
-
-![Import a calendar from URL in Office 365 (web)](https://i.imgur.com/bUka0M1.png)
 
 ## Cómo contribuir
 
