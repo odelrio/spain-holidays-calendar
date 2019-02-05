@@ -4,6 +4,8 @@
 
 Colección de ficheros iCalendar con los festivos de distintos municipios de España. Puedes añadirlo fácilmente a tu aplicación de calendario (Google Calendar, Apple Calendar, Outlook...).
 
+Dale un vistazo a los [calendarios disponibles](#calendarios-disponibles). ¿Echas en falta alguno? ¡[Créalo](#como-contribuir) tú mismo!
+
 >Collection of iCalendar files with holidays in many different Spanish cities. You can easily add them to your calendar app (Google Calendar, Apple Calendar, Outlook, etc.).
 
 ## Añádelos a tu calendario
