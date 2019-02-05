@@ -26,7 +26,7 @@ La mayoría de aplicaciones permiten importar calendarios desde direcciones URL.
 
 ![Import a calendar from URL in Office 365 (web)](https://i.imgur.com/bUka0M1.png)
 
-##Calendarios disponibles
+## Calendarios disponibles
 
 ### Cataluña
 
