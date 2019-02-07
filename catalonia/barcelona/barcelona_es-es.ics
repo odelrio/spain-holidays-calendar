@@ -7,16 +7,16 @@ CALSCALE:GREGORIAN
 X-COM-TYPE: Fixed date --------------------------------------------------------
 
 X-COM-DATE: Feb 10th
-UID: shc-catalonia-barcelona-barcelona-00000210
 BEGIN:VEVENT
+UID: catalonia-barcelona-barcelona-es-es-00000210
 SUMMARY:Test event 1
 DTSTART;VALUE=DATE:20190210
 RRULE:FREQ=YEARLY;BYMONTH=2;BYMONTHDAY=10
 END:VEVENT
 
 X-COM-DATE: Feb 10th
-UID: shc-catalonia-barcelona-barcelona-20190211
 BEGIN:VEVENT
+UID: catalonia-barcelona-barcelona-es-es-20190211
 SUMMARY:Test event 2
 DTSTART;VALUE=DATE:20190211
 END:VEVENT
