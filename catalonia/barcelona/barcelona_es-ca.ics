@@ -56,7 +56,7 @@ END:VEVENT
 
 X-COM-DATE: Sep 24th
 BEGIN:VEVENT
-UID:catalonia-barcelona-barcelona-es-ca-20190924
+UID:catalonia-barcelona-barcelona-es-ca-00000924
 SUMMARY:La Mercè
 DTSTART;VALUE=DATE:20190924
 RRULE:FREQ=YEARLY;BYMONTH=9;BYMONTHDAY=24
