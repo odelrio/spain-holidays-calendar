@@ -8,6 +8,7 @@ X-COM-TYPE: Fixed date --------------------------------------------------------
 
 X-COM-DATE: Jan 1st
 BEGIN:VEVENT
+UID:catalonia-<province>-<municipality>-es-ca-00000101
 SUMMARY:Cap d'any
 DTSTART;VALUE=DATE:20190101
 RRULE:FREQ=YEARLY;BYMONTH=1;BYMONTHDAY=1
@@ -15,6 +16,7 @@ END:VEVENT
 
 X-COM-DATE: Jan 6th
 BEGIN:VEVENT
+UID:catalonia-<province>-<municipality>-es-ca-00000106
 SUMMARY:Dia de Reis (Epifania del Senyor)
 DTSTART;VALUE=DATE:20190106
 RRULE:FREQ=YEARLY;BYMONTH=1;BYMONTHDAY=6
@@ -22,6 +24,7 @@ END:VEVENT
 
 X-COM-DATE: May 1st
 BEGIN:VEVENT
+UID:catalonia-<province>-<municipality>-es-ca-00000501
 SUMMARY:Dia Internacional dels Treballadors
 DTSTART;VALUE=DATE:20190501
 RRULE:FREQ=YEARLY;BYMONTH=5;BYMONTHDAY=1
@@ -29,6 +32,7 @@ END:VEVENT
 
 X-COM-DATE: Jun 24th
 BEGIN:VEVENT
+UID:catalonia-<province>-<municipality>-es-ca-00000624
 SUMMARY:Sant Joan
 DTSTART;VALUE=DATE:20190624
 RRULE:FREQ=YEARLY;BYMONTH=6;BYMONTHDAY=24
@@ -36,6 +40,7 @@ END:VEVENT
 
 X-COM-DATE: Aug 15th
 BEGIN:VEVENT
+UID:catalonia-<province>-<municipality>-es-ca-00000815
 SUMMARY:Assumpció de la Verge Maria
 DTSTART;VALUE=DATE:20190815
 RRULE:FREQ=YEARLY;BYMONTH=8;BYMONTHDAY=15
@@ -43,6 +48,7 @@ END:VEVENT
 
 X-COM-DATE: Sep 11th
 BEGIN:VEVENT
+UID:catalonia-<province>-<municipality>-es-ca-00000911
 SUMMARY:Diada Nacional de Catalunya
 DTSTART;VALUE=DATE:20190911
 RRULE:FREQ=YEARLY;BYMONTH=9;BYMONTHDAY=11
@@ -50,6 +56,7 @@ END:VEVENT
 
 X-COM-DATE: Oct 12th
 BEGIN:VEVENT
+UID:catalonia-<province>-<municipality>-es-ca-00001012
 SUMMARY:Festa Nacional d'Espanya
 DTSTART;VALUE=DATE:20191012
 RRULE:FREQ=YEARLY;BYMONTH=10;BYMONTHDAY=12
@@ -57,6 +64,7 @@ END:VEVENT
 
 X-COM-DATE: Nov 1st
 BEGIN:VEVENT
+UID:catalonia-<province>-<municipality>-es-ca-00001101
 SUMMARY:Tots Sants
 DTSTART;VALUE=DATE:20191101
 RRULE:FREQ=YEARLY;BYMONTH=11;BYMONTHDAY=1
@@ -64,6 +72,7 @@ END:VEVENT
 
 X-COM-DATE: Dec 6th
 BEGIN:VEVENT
+UID:catalonia-<province>-<municipality>-es-ca-00001206
 SUMMARY:Dia de la Constitució
 DTSTART;VALUE=DATE:20191206
 RRULE:FREQ=YEARLY;BYMONTH=12;BYMONTHDAY=6
@@ -71,6 +80,7 @@ END:VEVENT
 
 X-COM-DATE: Dec 8th
 BEGIN:VEVENT
+UID:catalonia-<province>-<municipality>-es-ca-00001208
 SUMMARY:La Immaculada Concepció
 DTSTART;VALUE=DATE:20191208
 RRULE:FREQ=YEARLY;BYMONTH=12;BYMONTHDAY=8
@@ -78,6 +88,7 @@ END:VEVENT
 
 X-COM-DATE: Dec 25th
 BEGIN:VEVENT
+UID:catalonia-<province>-<municipality>-es-ca-00001225
 SUMMARY:Nadal
 DTSTART;VALUE=DATE:20191225
 RRULE:FREQ=YEARLY;BYMONTH=12;BYMONTHDAY=25
@@ -85,6 +96,7 @@ END:VEVENT
 
 X-COM-DATE: Dec 26th
 BEGIN:VEVENT
+UID:catalonia-<province>-<municipality>-es-ca-00001226
 SUMMARY:Sant Esteve
 DTSTART;VALUE=DATE:20191226
 RRULE:FREQ=YEARLY;BYMONTH=12;BYMONTHDAY=26
@@ -94,60 +106,70 @@ X-COM-TYPE: Variable date -----------------------------------------------------
 
 X-COM-DATE: Apr 19th 2019
 BEGIN:VEVENT
+UID:catalonia-<province>-<municipality>-es-ca-20190419
 SUMMARY:Divendres Sant
 DTSTART;VALUE=DATE:20190419
 END:VEVENT
 
 X-COM-DATE: Apr 22th 2019
 BEGIN:VEVENT
+UID:catalonia-<province>-<municipality>-es-ca-20190422
 SUMMARY:Dilluns de Pasqua (Pasqua Florida) 
 DTSTART;VALUE=DATE:20190422
 END:VEVENT
 
 X-COM-DATE: Apr 10th 2020
 BEGIN:VEVENT
+UID:catalonia-<province>-<municipality>-es-ca-20200410
 SUMMARY:Divendres Sant
 DTSTART;VALUE=DATE:20200410
 END:VEVENT
 
 X-COM-DATE: Apr 13th 2020
 BEGIN:VEVENT
+UID:catalonia-<province>-<municipality>-es-ca-20200413
 SUMMARY:Dilluns de Pasqua (Pasqua Florida) 
 DTSTART;VALUE=DATE:20200413
 END:VEVENT
 
 X-COM-DATE: Apr 2nd 2021
 BEGIN:VEVENT
+UID:catalonia-<province>-<municipality>-es-ca-20210402
 SUMMARY:Divendres Sant
 DTSTART;VALUE=DATE:20210402
 END:VEVENT
 
 X-COM-DATE: Apr 5th 2021
 BEGIN:VEVENT
+UID:catalonia-<province>-<municipality>-es-ca-20210405
 SUMMARY:Dilluns de Pasqua (Pasqua Florida) 
 DTSTART;VALUE=DATE:20210405
 END:VEVENT
 
 X-COM-DATE: Apr 15th 2022
 BEGIN:VEVENT
+UID:catalonia-<province>-<municipality>-es-ca-20220415
 SUMMARY:Divendres Sant
 DTSTART;VALUE=DATE:20220415
 END:VEVENT
 
 X-COM-DATE: Apr 18th 2022
 BEGIN:VEVENT
+UID:catalonia-<province>-<municipality>-es-ca-20220418
 SUMMARY:Dilluns de Pasqua (Pasqua Florida) 
 DTSTART;VALUE=DATE:20220418
 END:VEVENT
 
 X-COM-DATE: Apr 7th 2023
 BEGIN:VEVENT
+UID:catalonia-<province>-<municipality>-es-ca-20230407
 SUMMARY:Divendres Sant
 DTSTART;VALUE=DATE:20230407
 END:VEVENT
 
 X-COM-DATE: Apr 9th 2023
 BEGIN:VEVENT
+UID:catalonia-<province>-<municipality>-es-ca-20230409
 SUMMARY:Dilluns de Pasqua (Pasqua Florida) 
 DTSTART;VALUE=DATE:20230409
 END:VEVENT
